@@ -25,4 +25,10 @@ Cobalah eksekusi query SQL yang lain sesuai kreasi Anda, capture hasilnya dan je
 ![alt text](image-4.png)
 Query SQL yang saya gunakan yaitu untuk menampilkan tabel nama yang mempunyai status pembayaran paid.
 
+5. Lakukan push, kemudian perhatikan di akun dashboard Vercel project Anda. Capture dan lampirkan link aplikasi Anda yang telah berhasil di deploy, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+Jawab : 
+link aplikasi : 09-nextjs-database-rqrf.vercel.app
+![alt text](image-5.png)
+
+
 
