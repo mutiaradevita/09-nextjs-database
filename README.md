@@ -40,5 +40,9 @@ Jawab :
 ![alt text](image-7.png)
 Pada langkah ini kita menggunakan kueri SQL untuk mengambil beberapa data daripada harus memilah satu persatu data dengan jumlah data yang banyak, ketika data yang ditransfer secara signifikan pada setiap permintaan.
 
+8. Jika Anda perhatikan pada file src\app\page.tsx untuk komponen Card sebenarnya telah dibuat sebagai molecules pada file src\app\components\molecules\card.tsx yaitu komponen CardWrapper. 
+Jawab :
+![alt text](image-8.png)
+Pada Langkah ini kita melakukan import CardWrapper pada page.tsx untuk mengambil data Cardwapper pada card.tsx.
 
 
