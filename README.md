@@ -35,7 +35,10 @@ Jawab :
 ![alt text](image-6.png)
 Pada langkah ini kita melakukan uncomment pada kode yang sebelumnya udah kita buat yaitu RevenueChart untuk menampilkan chart pada project Vercel yang kita buat. Untuk memperbaiki tampilan grafik yang kurang baik kita harus menghapus bagian sm: pada components - molecules - revenue-chart.tsx pada line 31.
 
-
+7. Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+Jawab : 
+![alt text](image-7.png)
+Pada langkah ini kita menggunakan kueri SQL untuk mengambil beberapa data daripada harus memilah satu persatu data dengan jumlah data yang banyak, ketika data yang ditransfer secara signifikan pada setiap permintaan.
 
 
 
