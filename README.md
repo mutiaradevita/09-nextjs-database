@@ -30,5 +30,12 @@ Jawab :
 link aplikasi : 09-nextjs-database-rqrf.vercel.app
 ![alt text](image-5.png)
 
+6. Lakukan capture dan push hasilnya, kemudian buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari ?
+Jawab :
+![alt text](image-6.png)
+Pada langkah ini kita melakukan uncomment pada kode yang sebelumnya udah kita buat yaitu RevenueChart untuk menampilkan chart pada project Vercel yang kita buat. Untuk memperbaiki tampilan grafik yang kurang baik kita harus menghapus bagian sm: pada components - molecules - revenue-chart.tsx pada line 31.
+
+
+
 
 
