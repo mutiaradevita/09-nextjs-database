@@ -4,6 +4,7 @@
 | Nama |  Mutiara Devita Eka Putri |
 | Kelas | TI - 3A |
 
+# WEEK 9
 1. Capture hasil deploy project Anda dan buatlah laporan di file README.md. Jelaskan apa yang telah Anda pelajari?
 
 Jawab :
@@ -76,4 +77,8 @@ Jawab :
 Kesimpulan:
 Fungsi fetchCardData ini mengambil data ringkasan yang dibutuhkan untuk menampilkan informasi pada invoice dashboard, seperti jumlah customer, jumlah invoice, dan total invoice berdasarkan status pembayaran.
 
+# WEEK 10
+1. Coba running di localhost, capture hasilnya dan buatlah laporan di README.md. Jelaskan apa yang telah Anda pelajari dan bagaimana tampilannya saat ini? Apakah ada error ?
 
+Jawab :
+![alt text](image-9.png)
