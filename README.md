@@ -82,3 +82,8 @@ Fungsi fetchCardData ini mengambil data ringkasan yang dibutuhkan untuk menampil
 
 Jawab :
 ![alt text](image-9.png)
+
+2. Capture hasil form login yang telah dibuat dan buatlah laporan di README.md.
+
+ Jawab : 
+ Terdapat error sehingga harus lanjut terlebih dahulu ke praktikum 3.
